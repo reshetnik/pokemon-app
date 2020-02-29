@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e22f64a.chunk.css",
-    "main.js": "/static/js/main.b53f8efb.chunk.js",
-    "main.js.map": "/static/js/main.b53f8efb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b956b800.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b956b800.js.map",
-    "static/js/2.d4feda02.chunk.js": "/static/js/2.d4feda02.chunk.js",
-    "static/js/2.d4feda02.chunk.js.map": "/static/js/2.d4feda02.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e7aaf4420b9d209693566bdafc2d444b.js": "/precache-manifest.e7aaf4420b9d209693566bdafc2d444b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.1e22f64a.chunk.css.map": "/static/css/main.1e22f64a.chunk.css.map",
-    "static/js/2.d4feda02.chunk.js.LICENSE.txt": "/static/js/2.d4feda02.chunk.js.LICENSE.txt"
+    "main.css": "/pokemon-app/static/css/main.1e22f64a.chunk.css",
+    "main.js": "/pokemon-app/static/js/main.d31b13ce.chunk.js",
+    "main.js.map": "/pokemon-app/static/js/main.d31b13ce.chunk.js.map",
+    "runtime-main.js": "/pokemon-app/static/js/runtime-main.21145d5d.js",
+    "runtime-main.js.map": "/pokemon-app/static/js/runtime-main.21145d5d.js.map",
+    "static/js/2.d4feda02.chunk.js": "/pokemon-app/static/js/2.d4feda02.chunk.js",
+    "static/js/2.d4feda02.chunk.js.map": "/pokemon-app/static/js/2.d4feda02.chunk.js.map",
+    "index.html": "/pokemon-app/index.html",
+    "precache-manifest.e12b33ff6e6fca9d6dd999c84fd8b87a.js": "/pokemon-app/precache-manifest.e12b33ff6e6fca9d6dd999c84fd8b87a.js",
+    "service-worker.js": "/pokemon-app/service-worker.js",
+    "static/css/main.1e22f64a.chunk.css.map": "/pokemon-app/static/css/main.1e22f64a.chunk.css.map",
+    "static/js/2.d4feda02.chunk.js.LICENSE.txt": "/pokemon-app/static/js/2.d4feda02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b956b800.js",
+    "static/js/runtime-main.21145d5d.js",
     "static/js/2.d4feda02.chunk.js",
     "static/css/main.1e22f64a.chunk.css",
-    "static/js/main.b53f8efb.chunk.js"
+    "static/js/main.d31b13ce.chunk.js"
   ]
 }
