@@ -1,6 +1,6 @@
 {
-  "homepage": "http://reshetnik.github.io/pokemon-app",
   "name": "pokemon-app",
+  "homepage": "http://reshetnik.github.io/pokemon-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

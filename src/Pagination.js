@@ -3,7 +3,7 @@ import _ from 'underscore'
 
 export default function Pagination({total, currentPage, event}) {
 
-    let totalPages = Math.ceil(total / 20);
+    let totalPages = Math.floor(total / 20);
 
     let rez = _.uniq( [ 1, 2, ( totalPages - 1), totalPages, currentPage - 1, currentPage, currentPage + 1] )
                 .sort( (a,b) => a-b )
