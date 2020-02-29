@@ -25,7 +25,7 @@ export async function getData(offset = 0) {
     return data;
 }
 
-export async function getDataPokemon(pokemonName) {
+export async function getDataPokemon(pokemonName = 'bulbasaur') {
     const urlApi = `https://pokeapi.co/api/v2/pokemon/${pokemonName}`;
 
     let data;
